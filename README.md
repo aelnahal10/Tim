@@ -1,5 +1,5 @@
 # Tim
-This is a complete overhaul of our navigation system, simplified path for both users and developers
+This is a complete overhaul of the navigation system, simplified path for both users and developers
 
 `npx expo install react-native-screens react-native-safe-area-context`
 
@@ -15,3 +15,9 @@ This is a complete overhaul of our navigation system, simplified path for both u
 `yarn install`
 
 `expo run`
+
+
+# This is a mobile app developed using React Native, Node.Js, and MySql
+The goal of this app is to provide therapy for autistic children to improve their state
+and decrease their autism symptoms using personalised quizes decided after researching
+the most effective ways to treat autisim.
